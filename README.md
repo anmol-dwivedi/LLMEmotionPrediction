@@ -1,7 +1,7 @@
 
 # Emotion Detection Fall 2024 - Top Rank Kaggle Submission 🏆
 
-![Leaderboard Screenshot](./assets/leaderboard_top1.png)
+![Leaderboard Screenshot](https://github.com/anmol-dwivedi/LLMEmotionPrediction/blob/main/Kaggle%20Leaderboard.PNG)
 
 > **Kaggle Competition:** [Emotion Detection Fall 2024](https://www.kaggle.com/competitions/emotion-detection-fall-2024/overview)  
 > **Author:** Anmol Dwivedi (Rank 1/60+ submissions)
