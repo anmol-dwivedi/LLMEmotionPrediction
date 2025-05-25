@@ -91,7 +91,7 @@ Each notebook uses a different tokenizer:
 ##  Leaderboard Achievement
 Achieved **Rank 1** in the [Emotion Detection Fall 2024 Kaggle competition](https://www.kaggle.com/competitions/emotion-detection-fall-2024/overview) with a public score of **0.62227** ⭐
 
-![Kaggle Leaderboard](./assets/kaggle_leaderboard_1stplace.png)
+
 
 ---
 
